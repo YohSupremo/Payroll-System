@@ -1614,7 +1614,7 @@ int main() {
 		design5();
 		cout << " TOTAL TAXES: " << setw(3) << "" << "Php " << total_taxes << "\n" << endl;
 		design5();
-		cout << "" << setw(2) << "" << "---------" << "\n" << endl;
+		cout << "" << setw(2) << "" << "------------" << "\n" << endl;
 		design5();
 		cout << " TOTAL DEDUCTIONS " << setw(3) << "" << "Php " << total_deductions << "\n" << endl;
 		design6();
