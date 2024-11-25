@@ -1705,7 +1705,7 @@ int main() {
 	cout << setw(63) << "" << left << setw(45) << " NET EARNINGS (E-F) (PHP) " << gross_earnings - total_deductions << endl;
 	design1();
 
-	// FINAL UI, deduction summary tapusin q bukas lmao
+	
 
 	return 0;
 }
